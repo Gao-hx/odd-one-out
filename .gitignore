@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Env
+.env
+
+# SQLite
+*.sqlite
+*.db
+
+# Logs
+npm-debug.log*
